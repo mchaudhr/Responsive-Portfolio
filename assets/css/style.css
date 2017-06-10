@@ -324,12 +324,11 @@ input[type=submit] {
   }
 
   .auth-image {
-    float: none;
-    width: 100%;
+    width: 45%;
   }
 
   .work {
-    width: 46.9%;
+    width: 45%;
   }
 
 }
@@ -343,11 +342,11 @@ input[type=submit] {
   }
 
   #logo {
-    margin-left: 5%;
+    margin-left: 2.5%;
   }
 
   nav {
-    margin-right: 5%;
+    margin-right: 2.5%;
   }
 
   .container {
@@ -355,13 +354,13 @@ input[type=submit] {
   }
 
   .main-section {
-    width: 50%;
-    margin-left: 5%;
+    width: 60%;
+    margin-left: 2.5%;
   }
 
   .sidebar {
     float: right;
-    margin-right: 5%;
+    margin-right: 2.5%;
     width: 35%;
   }
 
